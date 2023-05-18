@@ -1,5 +1,5 @@
 # Pet project for web scrapping skelbiu.lt
-## - Selenium+Openpyxl+Beautifulsoup+Matplotlib
+## Selenium+Openpyxl+Beautifulsoup+Matplotlib
 ### Summary:
 
 This small app is intended:
